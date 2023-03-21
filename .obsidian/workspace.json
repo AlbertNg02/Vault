@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "1e7d6e53a7374a2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a70282ec79102a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39f93ddde66334bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bioinformatics/Lab and project proposal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "96c77dc02451a6c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ee909267394cdf5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91ca48c3e7729493",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "565e657470abf445",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ff4c46eb7727a3f4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 220.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "d7770ecc405dc052",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fb302fba9d4c2d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40b18a1fd4902b9e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bioinformatics/Lab and project proposal.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b351172258652968",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bioinformatics/Lab and project proposal.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8e60dbcd5c73f5ac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "99cc381e876ef240",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bioinformatics/Lab and project proposal.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "39f93ddde66334bc",
+  "lastOpenFiles": [
+    "0E2FB1D3-97E5-462B-9441-78462B6294C3_1_201_a.heic",
+    "Bioinformatics/Drawings/Multi_Sequencing.excalidraw.md",
+    "Bioinformatics/Drawings/denovo.md",
+    "Bioinformatics/Lab and project proposal.md",
+    "Bioinformatics/Untitled.md",
+    "Bioinformatics/Drawings",
+    "Excalidraw/Untitled.md",
+    "Excalidraw/Drawing 2023-03-20 14.03.20.excalidraw.md",
+    "Excalidraw/Nbody simulation.excalidraw.md",
+    "Excalidraw/Neurel Nets and Backwards prop.excalidraw.md",
+    "Excalidraw/parralel_quiz.excalidraw.md",
+    "Quiz questions.md",
+    "Nbody.md",
+    "Parallels/Nbody.md",
+    "Parallels",
+    "Untitled.canvas",
+    "Test.md",
+    "Excalidraw/excalidraw.md",
+    "Excalidraw",
+    "Excalidraw/Drawing 2023-03-09 13.27.40.excalidraw 1.md",
+    "Pasted image 20230308142135.png",
+    "Machine learning",
+    "Untitled",
+    "Excalidraw/Drawing 2023-03-08 14.12.06.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-08 14.02.11.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-08 12.44.09.excalidraw.md",
+    "Bioinformatics",
+    "Test"
+  ]
+}
