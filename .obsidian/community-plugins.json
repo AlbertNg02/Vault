@@ -4,5 +4,10 @@
   "obsidian-excalidraw-plugin",
   "obsidian-outliner",
   "obsidian-kanban",
-  "obsidian-html-tags-autocomplete"
+  "obsidian-html-tags-autocomplete",
+  "obsidian-annotator",
+  "obsidian-linter",
+  "obsidian-git",
+  "templater-obsidian",
+  "terminal"
 ]

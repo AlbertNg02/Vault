@@ -28,8 +28,67 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8f0a31e998020f57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine learning/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a717874eb20e3791",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "efc90b180f4f2d84",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "556cb0353fcb899b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7d60b8409e345d69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Excalidraw/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36dec81f17db1d79",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Parallels/drawings/vector scalar mul.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -95,7 +154,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Bioinformatics/Drawings/denovo.md",
+            "file": "Parallels/drawings/vector scalar mul.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +171,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Bioinformatics/Drawings/denovo.md",
+            "file": "Parallels/drawings/vector scalar mul.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +183,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Bioinformatics/Drawings/denovo.md"
+            "file": "Parallels/drawings/vector scalar mul.md"
           }
         }
       }
@@ -133,6 +192,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -140,40 +201,50 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "b53d9a7544a1bbe4",
+  "active": "36dec81f17db1d79",
   "lastOpenFiles": [
+    "Parallels/Lab2 explanation.md",
+    "Parallels/drawings/vector scalar mul.md",
+    "Parallels/drawings/Drawing 2023-03-24 11.22.59.excalidraw.md",
+    "Parallels/drawings/Nbody.md",
+    "Parallels/drawings/pragma.md",
+    "Parallels/drawings",
+    "Parallels/Untitled",
+    "Parallels/Drawing 2023-03-24 11.06.18.excalidraw.md",
+    "Parallels/pragma.md",
+    "Pasted image 20230324111304.png",
+    "Parallels/Untitled.md",
+    "Excalidraw/Drawing 2023-03-22 11.10.36.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-22 14.10.55.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-23 09.35.13.excalidraw.md",
+    "Excalidraw/Untitled.md",
+    "Excalidraw/Drawing 2023-03-21 10.24.47.excalidraw.md",
+    "Machine learning/Untitled.md",
+    "Quiz questions.md",
+    "Bioinformatics/Drawings/denovo.md",
     "0E2FB1D3-97E5-462B-9441-78462B6294C3_1_201_a.heic",
     "Bioinformatics/Drawings/Multi_Sequencing.excalidraw.md",
-    "Bioinformatics/Drawings/denovo.md",
     "Parallels/Nbody.md",
     "Bioinformatics/Untitled.md",
     "Bioinformatics/Lab and project proposal.md",
     "Bioinformatics/Drawings",
     "Excalidraw/Drawing 2023-03-20 14.04.06.excalidraw.md",
-    "Quiz questions.md",
     "Test.md",
     "Excalidraw/Drawing 2023-03-20 11.04.08.excalidraw.md",
     "Excalidraw/Drawing 2023-03-20 14.03.20.excalidraw.md",
-    "Excalidraw/Untitled.md",
     "Excalidraw/parralel_quiz.excalidraw.md",
     "Untitled.canvas",
     "Parallels",
     "Excalidraw/Neurel Nets and Backwards prop.excalidraw.md",
-    "Excalidraw/Nbody simulation.excalidraw.md",
     "Excalidraw",
-    "Bioinformatics/Multiple sequence alignmeant.md",
-    "Excalidraw/excalidraw.md",
-    "Excalidraw/Drawing 2023-03-17 13.09.58.excalidraw.md",
-    "Excalidraw/Drawing 2023-03-09 13.27.40.excalidraw 1.md",
     "Projects",
     "Machine learning",
     "Pasted image 20230308142135.png",
     "Bioinformatics",
-    "Excalidraw/Drawing 2023-03-08 12.44.09.excalidraw.md",
-    "Excalidraw/Drawing 2023-03-08 14.02.11.excalidraw.md",
     "Test"
   ]
 }

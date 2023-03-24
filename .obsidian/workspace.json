@@ -4,23 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "5a70282ec79102a4",
+        "id": "93b98e764a145f44",
         "type": "tabs",
         "children": [
           {
-            "id": "39f93ddde66334bc",
+            "id": "6812eec89cf8bdb0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Bioinformatics/Lab and project proposal.md",
-                "mode": "source",
-                "source": false
+                "file": "Parallels/drawings/vector scalar mul.md"
               }
+            }
+          },
+          {
+            "id": "dd7ba78898ae466c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Parallels/drawings/vector scalar mul.md"
+              }
+            }
+          },
+          {
+            "id": "242890dec48cac3c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "stacked": true
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -66,13 +82,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 220.5,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d7770ecc405dc052",
@@ -88,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bioinformatics/Lab and project proposal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bioinformatics/Lab and project proposal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,17 +139,23 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Bioinformatics/Lab and project proposal.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "915b401db412a7bb",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,27 +166,42 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "audio-recorder:Start/stop recording": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "39f93ddde66334bc",
+  "active": "242890dec48cac3c",
   "lastOpenFiles": [
+    "Parallels/drawings/vector scalar mul.md",
+    "Parallels/drawings/pragma.md",
+    "Parallels/drawings/Nbody.md",
+    "Parallels/Lab2 explanation.md",
+    "Parallels/drawings",
+    "Pasted image 20230324111304.png",
+    "Bioinformatics/Lab4.md",
+    "Urban studies/Dangers of Walking in New York.md",
+    "Excalidraw/Decision_tree.md",
+    "Urban studies",
+    "Excalidraw/parralel_quiz.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-23 09.35.13.excalidraw.md",
+    "Excalidraw/Work_Division.md",
+    "Excalidraw/CommonSubString_problem.md",
+    "Bioinformatics/Lab and project proposal.md",
+    "Excalidraw/Untitled.md",
+    "Machine learning/Untitled.md",
     "0E2FB1D3-97E5-462B-9441-78462B6294C3_1_201_a.heic",
     "Bioinformatics/Drawings/Multi_Sequencing.excalidraw.md",
     "Bioinformatics/Drawings/denovo.md",
-    "Bioinformatics/Lab and project proposal.md",
     "Bioinformatics/Untitled.md",
     "Bioinformatics/Drawings",
-    "Excalidraw/Untitled.md",
     "Excalidraw/Drawing 2023-03-20 14.03.20.excalidraw.md",
     "Excalidraw/Nbody simulation.excalidraw.md",
     "Excalidraw/Neurel Nets and Backwards prop.excalidraw.md",
-    "Excalidraw/parralel_quiz.excalidraw.md",
     "Quiz questions.md",
     "Nbody.md",
-    "Parallels/Nbody.md",
     "Parallels",
     "Untitled.canvas",
     "Test.md",
@@ -177,10 +210,7 @@
     "Excalidraw/Drawing 2023-03-09 13.27.40.excalidraw 1.md",
     "Pasted image 20230308142135.png",
     "Machine learning",
-    "Untitled",
     "Excalidraw/Drawing 2023-03-08 14.12.06.excalidraw.md",
-    "Excalidraw/Drawing 2023-03-08 14.02.11.excalidraw.md",
-    "Excalidraw/Drawing 2023-03-08 12.44.09.excalidraw.md",
     "Bioinformatics",
     "Test"
   ]
