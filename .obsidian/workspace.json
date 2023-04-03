@@ -8,35 +8,65 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6812eec89cf8bdb0",
+            "id": "73ce7aee2d947daf",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Parallels/drawings/vector scalar mul.md"
+                "file": "Bioinformatics/Lab and project proposal.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "dd7ba78898ae466c",
+            "id": "6ee289ebc751ba19",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Parallels/drawings/vector scalar mul.md"
+                "file": "Bioinformatics/FINAL_PROJECT.excalidraw.md"
               }
             }
           },
           {
-            "id": "242890dec48cac3c",
+            "id": "14b8fb55bb3d6349",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Machine learning/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88372178ccdb59f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bioinformatics/Lab4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2fa7a85e8975fed9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bioinformatics/FINAL-PROJECT-NOTES.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -65,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,6 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Bioinformatics/FINAL-PROJECT-NOTES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Bioinformatics/FINAL-PROJECT-NOTES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +171,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Bioinformatics/FINAL-PROJECT-NOTES.md"
+              }
             }
           },
           {
@@ -151,7 +185,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -168,50 +202,52 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
-      "terminal:Open terminal": false
+      "terminal:Open terminal": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "242890dec48cac3c",
+  "active": "2fa7a85e8975fed9",
   "lastOpenFiles": [
+    "Pasted image 20230402134543.png",
+    "Bioinformatics/Lab4.md",
+    "Bioinformatics/FINAL-PROJECT-NOTES.md",
+    "Bioinformatics/Lab and project proposal.md",
+    "Bioinformatics/FINAL_PROJECT.excalidraw.md",
+    "Bioinformatics/Quesitons.md",
+    "Bioinformatics/Drawings/Contig-Assembly-Scaffold.md",
+    "Parallels/drawings/Scheduling.md",
+    "Parallels/drawings/Nbody.md",
+    "Parallels/drawings/MPI.md",
+    "Parallels/drawings/Drawing 2023-03-31 11.49.45.excalidraw.md",
+    "Parallels/drawings/Deadlock.md",
     "Parallels/drawings/vector scalar mul.md",
     "Parallels/drawings/pragma.md",
-    "Parallels/drawings/Nbody.md",
-    "Parallels/Lab2 explanation.md",
-    "Parallels/drawings",
-    "Pasted image 20230324111304.png",
-    "Bioinformatics/Lab4.md",
-    "Urban studies/Dangers of Walking in New York.md",
-    "Excalidraw/Decision_tree.md",
-    "Urban studies",
-    "Excalidraw/parralel_quiz.excalidraw.md",
-    "Excalidraw/Drawing 2023-03-23 09.35.13.excalidraw.md",
-    "Excalidraw/Work_Division.md",
-    "Excalidraw/CommonSubString_problem.md",
-    "Bioinformatics/Lab and project proposal.md",
-    "Excalidraw/Untitled.md",
+    "Machine learning/Drawings/Drawing 2023-03-31 19.46.08.excalidraw.md",
     "Machine learning/Untitled.md",
-    "0E2FB1D3-97E5-462B-9441-78462B6294C3_1_201_a.heic",
-    "Bioinformatics/Drawings/Multi_Sequencing.excalidraw.md",
-    "Bioinformatics/Drawings/denovo.md",
-    "Bioinformatics/Untitled.md",
-    "Bioinformatics/Drawings",
-    "Excalidraw/Drawing 2023-03-20 14.03.20.excalidraw.md",
-    "Excalidraw/Nbody simulation.excalidraw.md",
-    "Excalidraw/Neurel Nets and Backwards prop.excalidraw.md",
+    "Machine learning/Drawings",
+    "Machine learning/Untitled",
+    "Docs/Research on Scheider and RIB tech.md",
+    "Test.md",
     "Quiz questions.md",
-    "Nbody.md",
+    "Pasted Image 20230327143418_331.png",
+    "Pasted image 20230324111304.png",
+    "Advisor meeting.md",
+    "Final Project NOTES.md",
+    "Parallels/MPI.md",
+    "Bioinformatics/Drawings/denovo.md",
+    "Bioinformatics/Drawings/Multi_Sequencing.excalidraw.md",
+    "Parallels/Main.md",
+    "Parallels/Untitled",
+    "Parallels/drawings/NPI.md",
+    "Docs",
+    "Rhodes Express",
+    "Parallels/drawings",
+    "Urban studies",
+    "0E2FB1D3-97E5-462B-9441-78462B6294C3_1_201_a.heic",
+    "Bioinformatics/Drawings",
     "Parallels",
     "Untitled.canvas",
-    "Test.md",
-    "Excalidraw/excalidraw.md",
-    "Excalidraw",
-    "Excalidraw/Drawing 2023-03-09 13.27.40.excalidraw 1.md",
-    "Pasted image 20230308142135.png",
-    "Machine learning",
-    "Excalidraw/Drawing 2023-03-08 14.12.06.excalidraw.md",
-    "Bioinformatics",
-    "Test"
+    "Pasted image 20230308142135.png"
   ]
 }
