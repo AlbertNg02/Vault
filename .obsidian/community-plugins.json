@@ -2,13 +2,6 @@
   "table-editor-obsidian",
   "dataview",
   "obsidian-excalidraw-plugin",
-  "obsidian-outliner",
-  "obsidian-kanban",
-  "obsidian-html-tags-autocomplete",
-  "obsidian-annotator",
-  "obsidian-linter",
-  "obsidian-git",
-  "templater-obsidian",
-  "terminal",
-  "various-complements"
+  "obsidian-fullscreen-plugin",
+  "terminal"
 ]

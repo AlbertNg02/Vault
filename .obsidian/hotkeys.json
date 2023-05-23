@@ -1,1 +1,11 @@
-{}
+{
+  "obsidian-fullscreen-plugin:fullscreen-focus": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Z"
+    }
+  ]
+}

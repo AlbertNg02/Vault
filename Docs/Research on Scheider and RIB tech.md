@@ -21,6 +21,14 @@ BIM -  a 3D virtual design and construction process that can be used for more ac
 
 
 
+
+- How much of the revenue goes into reinvesting into the facility mangament.
+- What product of the company nets the most revenue
+- 
+
+
+
+
 # Schneider Electric
 
 
@@ -39,11 +47,19 @@ Question asked:
 - How does the company ensure the security of the software products it creates, particularly in sensitive areas such as inventory management?
 - What vendors do you use because apart from the cloud infrastructure which is azure, what other companies does RIB employ mainly
 - Main programming technologies and refer to each sector in it
+- Who are you main 
 
 
 Personal Inquiry:
-- What made you change from Schneider Electric to RIB
-- In terms of revenue, Schneider Electric(French) is 34 billion UER while RIB(Germany) is 250 mil, how is the organization work flow different when you switch from such a big group to a smaller group.
+- What made you change from Schneider Electric to RIB ??
+- In terms of revenue, Schneider Electric(French) is 34 billion() UER while RIB(Germany) is 250 mil, how is the organization work flow different when you switch from such a big group to a smaller group.
+- Who are your main customers.
+- Growth rate + margins from RIB is bigger. Schneider will increase stock evaluation 
+- 
+
+
+- Work ethic and reaching out. 
+- How is Schiender and RIB dealing with the tech layoffs. Work force is cut by 80%.
 
 
 
@@ -96,3 +112,14 @@ Sure, here are some good questions to ask people in the software, digital automa
 9.  What kinds of career paths are available to employees in software development, digital automation, or big data roles at Schneider Electric, and how do these paths differ across different departments or divisions?
     
 10.  How does Schneider Electric foster innovation and creativity among its employees, and what kinds of initiatives are in place to encourage experimentation and risk-taking?
+
+
+
+
+PRESCALE 
+
+SOLUTION 
+
+
+Lower-level: product
+Higher-level: just a means 
