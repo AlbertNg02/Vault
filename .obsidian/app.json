@@ -2,5 +2,6 @@
   "promptDelete": false,
   "vimMode": true,
   "spellcheck": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "SmartLog/Clean Architecture"
 }

@@ -1,8 +1,7 @@
 [
   "table-editor-obsidian",
   "dataview",
-  "obsidian-excalidraw-plugin",
   "obsidian-fullscreen-plugin",
   "terminal",
-  "obsidian-git"
+  "obsidian-excalidraw-plugin"
 ]
