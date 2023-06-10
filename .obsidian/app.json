@@ -3,5 +3,7 @@
   "vimMode": true,
   "spellcheck": true,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "SmartLog/Clean Architecture"
+  "attachmentFolderPath": "SmartLog/Clean Architecture",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Media"
 }

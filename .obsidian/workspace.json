@@ -11,21 +11,21 @@
             "id": "3261d3c66a402257",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "SmartLog/Clean Architecture/Clean Architecture.md",
-                "mode": "source",
-                "source": false
+                "file": "Self-study/Linear Algebra/Drawing 2023-05-11 11.03.57.excalidraw.md"
               }
             }
           },
           {
-            "id": "d9801fece13eed73",
+            "id": "ef8ab7ee02fddf0d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "SmartLog/Solutions/Drawing 2023-06-01 12.41.42.excalidraw.md"
+                "file": "SmartLog/Modules and Packges.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SmartLog/Solutions/Drawing 2023-06-01 12.41.42.excalidraw.md",
+                "file": "SmartLog/Modules and Packges.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SmartLog/Solutions/Drawing 2023-06-01 12.41.42.excalidraw.md",
+                "file": "SmartLog/Modules and Packges.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SmartLog/Solutions/Drawing 2023-06-01 12.41.42.excalidraw.md"
+                "file": "SmartLog/Modules and Packges.md"
               }
             }
           },
@@ -227,30 +227,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d9801fece13eed73",
+  "active": "ef8ab7ee02fddf0d",
   "lastOpenFiles": [
+    "SmartLog/Modules and Packges.md",
+    "Self-study/main.excalidraw.md",
+    "Useful 01/Code Snippets.md",
+    "Rhodes College/ALSAC.md",
+    "Excalidraw/Work_Division.md",
+    "Excalidraw/Lab3 Language.md",
+    "Excalidraw/Dependencies Drawing.md",
+    "Excalidraw/CommonSubString_problem.md",
+    "Excalidraw/April24 11.09.32.excalidraw.md",
+    "Media/Pasted image 20230524015008.png",
+    "Rhodes College",
+    "Life.md",
+    "Media/Pasted Image 20230525113456_391.png",
+    "Media",
+    "Media/Pasted image 20230524020207.png",
+    "Media/Pasted image 20230524015604.png",
     "SmartLog/Clean Architecture/Clean Architecture.md",
+    "Media/Pasted image 20230526143048.png",
+    "Media/Pasted Image 20230525205515_146.png",
+    "Media/Pasted Image 20230525113527_365.png",
+    "Media/Pasted Image 20230525113410_373.png",
+    "Untitled.md",
+    "Tools.md",
+    "Media/Pasted image 20230526141748.png",
+    "Media/Pasted Image 20230525113542_370.png",
     "SmartLog/Solutions/Drawing 2023-06-01 12.41.42.excalidraw.md",
     "SmartLog/Solutions",
     "SmartLog/Clean Architecture/Drawing 2023-05-27 13.34.29.excalidraw.md",
     "SmartLog/Finanace/Quantitative analysis.md",
     "SmartLog/Finanace",
     "SmartLog/Clean Python Architecture/ErrorHandling.draw.md",
-    "Untitled.md",
     "Untitled",
-    "Pasted image 20230526133950.png",
     "SmartLog/Clean Python Architecture/Notes.md",
     "SmartLog/Clean Python Architecture/Overview.draw.md",
     "SmartLog/Clean Python Architecture/Python class tools.md",
-    "Pasted image 20230526143048.png",
-    "Pasted image 20230526141748.png",
-    "Pasted image 20230526133531.png",
-    "Pasted Image 20230525205515_146.png",
-    "Pasted Image 20230525113542_370.png",
-    "Pasted Image 20230525113527_365.png",
-    "Pasted Image 20230525113512_357.png",
-    "Pasted Image 20230525113456_391.png",
-    "Pasted Image 20230525113441_369.png",
     "SmartLog/Clean Python Architecture/Web_Flask Setup 02.52.48.excalidraw.md",
     "SmartLog/Code Complete 2/Slides.md",
     "SmartLog/OVERVIEW.md",
@@ -258,23 +271,10 @@
     "SmartLog/Clean Python Architecture",
     "Talk/Drawing 2023-05-18 14.23.33.excalidraw.md",
     "SmartLog/Code Complete 2/2. Creating High Quality Code.md",
-    "SmartLog/Code Complete 2/Variable Naming.md",
-    "SmartLog/Code Complete 2/Code Complete 2 Exca.md",
-    "Tools.md",
-    "Useful 01/Code.md",
-    "Excalidraw/Drawing 2023-04-28 20.04.32.excalidraw.md",
-    "Excalidraw/Dependencies Drawing.md",
-    "Excalidraw/Decision_tree.md",
-    "Excalidraw/Backward propagtation.md",
-    "Excalidraw/April24 11.09.32.excalidraw.md",
-    "SmartLog/Code Complete 2/Drawing 2023-05-22 13.46.46.excalidraw.md",
-    "Excalidraw/Work_Division.md",
     "SmartLog/Code Complete 2",
     "SmartLog",
     "Talk",
     "Useful 01",
-    "Self-study/Linear Algebra",
-    "Self-study",
     "Untitled.canvas"
   ]
 }
